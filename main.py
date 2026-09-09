@@ -45,10 +45,13 @@ choice1 = input("Wake up (A) or Sleep in (B)")
 if choice1 == "A":
   print(name, "woke up to their sister.")
   print(" ")
-  print("C'mon you have to be early to avoid the zombies! Mom and Dad start their rounds and attempts at around 5pm and its 1 right now. Get up."
+  print("'C'mon you have to be early to avoid the zombies! Mom and Dad start their rounds and attempts at around 5pm and its 1 right now. Get up."')
   print(" ")
   print(name, "got up and made sure they had the proper gear on." name, "looked at their pistol")
   #Second pinpoint
   choice2 = input("Leave the pistol and carry a knife instead (A) or Carry pistol and Knife (B)")
   if choice2 == "A"
-    print("You went out in search of supplies and carried on through the woods gathering resources that managed to last." name "raided a grocery store last time but they seemed to find more resources in the other companies...
+    print("You went out in search of supplies and carried on through the woods gathering resources that managed to last." name "raided a grocery store last time but they seemed to find more resources in the other companies...")
+    print(" ")
+    print("'Sis, I'm home.'" name "shouts out. Silence, weird."
+    print("You go to grab your gun but it has dissappeared")
