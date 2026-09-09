@@ -88,8 +88,27 @@ if choice1 == "A":
     print("'Sis?'", name," called out. You sister turned around, she was turning. You looked at the cure")
     choice5 = input("Do you negotiate (A) or inject her with the cure (B)?")
     #SL3 Final decision
-    if choice 5 == "B":
-      print(name, "moved quick. Before she could even react,", name, "inject the cure into her thigh. She crumbles to the floor, screaming."
-    
+    if choice5 == "B":
+      print(name, "moved quick. Before she could even react,", name, "inject the cure into her thigh. She crumbles to the floor, screaming.")
+      print(" ")
+      print("She moved back from them. 'Wha..did I-?' she was cut off by shrieking.")
+      print(" ")
+      print("Their parents banged on the door. The door that was about to break.", name, "grabbed her arm.")
+      print(" ")
+      print("They ran as far and as fast as they could, as", name, "recalled the place.")
+      
+      print(name, "lead their sister through the trees and back at those doors. Safe at last. Ending...")
+      print("3")
+    elif choice5 == "A":
+      print(name, "tried to argue with her.")
+      print(" ")
+      print("Mellany, put the gun, down. I have the cure. Please.")
+      print(" ")
+      print("'Why didn't you save me faster", name, ". Why?! You let our parents rot.' She charged at me. I didn't want to hurt her.")
+      print(" ")
+      print("I tried my best to keep away. Until I saw the spots. She was infected... and I know Im the same.")
+      print(" ")
+      print("The next few seconds were a blur... until everything went dark. Ending...")
+      print("4")
         
 
