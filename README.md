@@ -17,3 +17,8 @@ Humans began turning to their primative ways. Violent. Bloodshed. Until only the
 I plan to go out tommorrow. I have to find more rations for the month. 
 
 I head to bed. Tomorrow will hopefully be good...
+
+Story line 1 - You run away, your parents and your sister die.
+Story line 2 - Your sister kills you in your sleep and herself
+Story line 3 - You save you and your sister and live far away into the future
+Story line 4 - Your entire family is now zombies and your mind essence fades to black 
