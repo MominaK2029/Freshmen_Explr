@@ -43,5 +43,12 @@ if choice1 == "A":
     print("'Sis, I'm home.'" name "shouts out. Silence, weird.")
     print("You go to grab your gun but it has dissappeared")
     choice3 = input("What do you do? Get out of the house (A) or Explore the area.")
-    if choice3 ==  "A":
+    if choice3 ==  "B":
       print(name, "ran out of the house with their supplies and decided to run away. The terror may have ended. But hardships are still in your heart.")
+    elif choice3 == "A"
+        print("You choose to explore the area. Your sister must be playing.")
+        print("You find your sister, she's standing eerily.")
+        print("'Sister'" name, "calls out. She starts moving forward. You have to make a decision")
+        choice4 = input("Do you run (A) or just give up and get infected")
+        if choice4 == "A"
+          print("You ran away while you still had the chance. Your family is now gone. Your on your own.
