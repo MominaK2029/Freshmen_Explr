@@ -54,13 +54,13 @@ if choice1 == "A":
     print("They go to grab their gun but it has dissappeared")
     choice3 = input("What do you do? Explore the area (A) or get out of the house with your supplies (B) .")
     #SL 1
-    if choice3 ==  "A":
+    if choice3 ==  "B":
       print(name, "ran out of the house with their supplies and decided to run away. The terror may have ended. But hardships are still in their heart. Ending…")
       print(“1”)
     #SL 1, 4
-    elif choice3 == "B":
+    elif choice3 == "A":
         print("You choose to explore the area.", name, "sister must be playing.")
-        print("They find their sister, she's standing eerily.")
+        print("They find their sister, she's standing eerily. With your gun.")
         print("'Sister'", name, "calls out. She starts moving forward. You have to make a decision")
         choice4 = input("Do you fight your way out (A) or just give up and get infected (B) ?")
         #SL1 final choice
@@ -89,7 +89,7 @@ if choice1 == "A":
     choice5 = input("Do you negotiate (A) or inject her with the cure (B)?")
     #SL3 Final decision
     if choice 5 == "B":
-      print("You moved quick. Before she could even react, you in
+      print(name, "moved quick. Before she could even react,", name, "inject the cure into her thigh. She crumbles to the floor, screaming."
     
         
 
