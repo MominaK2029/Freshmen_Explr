@@ -56,4 +56,5 @@ if choice1 == "A":
     print("'Sis, I'm home.'" name "shouts out. Silence, weird.")
     print("You go to grab your gun but it has dissappeared")
     choice3 = input("What do you do? Get out of the house (A) or Explore the area.")
-      if choice3
+    if choice3 ==  "A":
+      print(name, "ran out of the house with their supplies and decided to run away. The terror may have ended. But hardships are still in your heart.")
