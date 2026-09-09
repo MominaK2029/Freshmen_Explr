@@ -1,4 +1,3 @@
-
 print("In this little town....")
 
 print()
