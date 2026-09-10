@@ -27,13 +27,6 @@ print(name, "..")
 print(name, "...")
 print(name.upper())
 
-# Character name
-name = input("Enter your name...")
-
-print(name, "..")
-print(name, "...")
-print(name.upper())
-
 #First pinpoint
 choice1 = input("Wake up (A) or Sleep in (B)")
 
