@@ -110,5 +110,29 @@ if choice1 == "A":
       print(" ")
       print("The next few seconds were a blur... until everything went dark. Ending...")
       print("4")
-        
+elif choice1 == "B":
+  print("My days became longer as I became lonelier. My sibling," name, "became more and more distant as time passed.")
+  print(" ")
+  print("I didn't know what to think of it. When I tried to wake her up they just slept. I didn't know what to do.")
+  print(" ")
+  print("Until I thought about it.")
+  print(" ")
+  print("This time was usually when the Zombies were innactive. They rampaged more through the night.")
+  print(" ")
+  print("Rather than the early hours of sunrise. Could they...")
+  print(" ")
+  print("I made my decision. With my knife.")
+  print(" ")  
+  print("Walking back into the room, I raised my right hand.")
+  print(" ")
+  choice6 = input("Are you going to wake up (A) or continue to sleep (B)?"
+  if choice6 == "A":
+    print("They woke up quite fast. Only to see the last face of their life time. Their sister.", name, "screams filled the house.")
+    print("Mellany let go of the knife after lodging it at her sibling's throat. Her hands shook.")
+    print("Mellany felt the guilt build up. She freaked out at the bang. Her hand sprung to the knife. Stabbing her own heart.")
+  else:
+    choice6 == "B"
+    print(name, "continued to sleep. Mellany stood over them. She raised her hand. And...strike")
+          print("")
+                    
 
