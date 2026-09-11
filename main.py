@@ -49,7 +49,7 @@ if choice1 == "A":
     #SL 1
     if choice3 ==  "B":
       print(name, "ran out of the house with their supplies and decided to run away. The terror may have ended. But hardships are still in their heart. Ending…")
-      print(“1”)
+      print(1)
     #SL 1, 4
     elif choice3 == "A":
         print("You choose to explore the area.", name, "sister must be playing.")
@@ -59,12 +59,11 @@ if choice1 == "A":
         #SL1 final choice
         if choice4 == "A":
           print("You ran away while you still had the chance. Your family is now gone. You're on your own. Ending…")
-        print(“1”)
-    else:
-      choice4 == "B"
-      print("You came this far. It was too difficult. Maybe it was time to..")
-      print("The world fades to black. Ending...")
-      print("4")
+        print(1)
+        elif choice4 == "B":
+        print("You came this far. It was too difficult. Maybe it was time to..")
+        print("The world fades to black. Ending...")
+        print("4")
       #SL 3 + 4
   if choice2 == "B":
     print("You took both with you. Just in case.")
@@ -104,7 +103,7 @@ if choice1 == "A":
       print("The next few seconds were a blur... until everything went dark. Ending...")
       print("4")
 elif choice1 == "B":
-  print("My days became longer as I became lonelier. My sibling," name, "became more and more distant as time passed.")
+  print("My days became longer as I became lonelier. My sibling,", name, "became more and more distant as time passed.")
   print(" ")
   print("I didn't know what to think of it. When I tried to wake her up they just slept. I didn't know what to do.")
   print(" ")
@@ -118,7 +117,7 @@ elif choice1 == "B":
   print(" ")  
   print("Walking back into the room, I raised my right hand.")
   print(" ")
-  choice6 = input("Are you going to wake up (A) or continue to sleep (B)?"
+  choice6 = input("Are you going to wake up (A) or continue to sleep (B)?")
   if choice6 == "A":
     print("They woke up quite fast. Only to see the last face of their life time. Their sister.", name, "screams filled the house.")
     print("Mellany let go of the knife after lodging it at her sibling's throat. Her hands shook.")
@@ -126,6 +125,6 @@ elif choice1 == "B":
   else:
     choice6 == "B"
     print(name, "continued to sleep. Mellany stood over them. She raised her hand. And...strike")
-          print("")
+    print("")
                     
 
