@@ -45,7 +45,7 @@ if choice1 == "A":
     print(" ")
     print("'Sis, I'm home.'", name, "shouts out. Silence, weird.")
     print("They go to grab their gun but it has dissappeared")
-    choice3 = input("What do you do? Explore the area (A) or get out of the house with your supplies (B) .")
+    choice3 = input("What do you do? Explore the area (A) or get out of the house with your supplies (B).")
     #SL 1
     if choice3 ==  "B":
       print(name, "ran out of the house with their supplies and decided to run away. The terror may have ended. But hardships are still in their heart. Ending…")
@@ -65,8 +65,7 @@ if choice1 == "A":
           print("The world fades to black. Ending...")
           print("4")
       #SL 3 + 4
-    else:
-      choice2 == "B"
+  elif choice2 == "B":
     print("You took both with you. Just in case.")
     print("The outside was dangerous. You never know what you might come across.")
     print(" ")
