@@ -59,14 +59,14 @@ if choice1 == "A":
         #SL1 final choice
         if choice4 == "A":
           print("You ran away while you still had the chance. Your family is now gone. You're on your own. Ending…")
-        print(1)
-    #else: 
-      #choice4 == "B":
-      #print("You came this far. It was too difficult. Maybe it was time to..")
-      #print("The world fades to black. Ending...")
-      #print("4")
+          print(1)
+        elif choice4 == "B":
+          print("You came this far. It was too difficult. Maybe it was time to..")
+          print("The world fades to black. Ending...")
+          print("4")
       #SL 3 + 4
-  if choice2 == "B":
+    else:
+      choice2 == "B"
     print("You took both with you. Just in case.")
     print("The outside was dangerous. You never know what you might come across.")
     print(" ")
