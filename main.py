@@ -122,9 +122,11 @@ elif choice1 == "B":
     print("They woke up quite fast. Only to see the last face of their life time. Their sister.", name, "screams filled the house.")
     print("Mellany let go of the knife after lodging it at her sibling's throat. Her hands shook.")
     print("Mellany felt the guilt build up. She freaked out at the bang. Her hand sprung to the knife. Stabbing her own heart.")
+    print("2")
   else:
     choice6 == "B"
-    print(name, "continued to sleep. Mellany stood over them. She raised her hand. And...strike")
+    print(name, "continued to sleep. Mellany stood over them. She raised her hand. And...strike. Ending...")
     print("")
+    print("2")
                     
 
