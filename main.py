@@ -126,7 +126,6 @@ elif choice1 == "B":
   else:
     choice6 == "B"
     print(name, "continued to sleep. Mellany stood over them. She raised her hand. And...strike. Ending...")
-    print("")
     print("2")
                     
 
